@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/EZajJGOMWas" target="_blank">
+    <a href="https://www.youtube.com/watch?v=f8Z9JyB2EIE" target="_blank">
       <img src="https://github.com/user-attachments/assets/0cb17079-9b42-4a6f-9023-d82642fff73b" alt="Project Banner">
     </a>
   <br />
@@ -275,7 +275,7 @@ interface TrendingCardProps {
 
 ## <a name="links">🔗 Assets</a>
 
-- Assets used in the project can be found [here](https://drive.google.com/file/d/1Q-Wx1Y5W-0tsHCyWLXQ1oLW8x8fnROy_/view?usp=sharing)
+- Assets used in the project can be found [here](https://drive.google.com/file/d/1_8eNj07rNS7B-JyCZ-lj1GtRYG03Ye-M/view)
 
 ## <a name="more">🚀 More</a>
 
